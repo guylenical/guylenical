@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @guylenical
-- 👀 I’m interested in burns, surgery and 
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on surgical research
-- 📫 How to reach me guy.stanley@gmail.com
+- 👋 Hi, I’m @guylenical. I'm the Cynthia Banham Burns Injury Fellow for 2021-2022.
+- 👀 I’m interested in technology, burns, and surgery
 
 <!---
 guylenical/guylenical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
